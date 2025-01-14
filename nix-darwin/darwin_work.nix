@@ -16,7 +16,9 @@
       upgrade = true;
     };
 
-    taps = [];
+    taps = [
+      "common-fate/granted"
+    ];
     brews = [
       "awscli"
       "kubernetes-cli"
