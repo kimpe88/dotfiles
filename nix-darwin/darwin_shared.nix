@@ -26,6 +26,7 @@
       pkgs.python3
       pkgs.pyenv
       pkgs.poetry
+      pkgs.pipx
 
       # Rust
       pkgs.rustup
